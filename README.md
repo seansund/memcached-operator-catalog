@@ -1,0 +1,1 @@
+# Memcached operator catalog
