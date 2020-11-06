@@ -1,1 +1,0 @@
-ibmgaragecloud/memcached-operator-bundle:0.0.1
