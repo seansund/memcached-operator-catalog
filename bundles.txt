@@ -1,2 +1,1 @@
-image-registry.openshift-image-registry.svc:5000/operator-dev/memcached-operator-ansible-bundle
-:0.0.2
+image-registry.openshift-image-registry.svc:5000/operator-dev/memcached-operator-ansible-bundle:0.0.2
