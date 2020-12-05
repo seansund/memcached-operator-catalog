@@ -1,0 +1,9 @@
+apiVersion: operators.coreos.com/v1alpha1
+kind: CatalogSource
+metadata:
+  name: memcached-operator-catalog
+spec:
+  sourceType: grpc
+  image: BUNDLE_URL
+  displayName: Memcached Operator
+  publisher: grpc
