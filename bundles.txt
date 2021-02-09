@@ -1,1 +1,2 @@
 us.icr.io/garage-dev-tools/memcached-operator-ansible-bundle:0.0.2
+us.icr.io/cntk-showcase/memcached-operator-ansible-bundle:0.0.3
